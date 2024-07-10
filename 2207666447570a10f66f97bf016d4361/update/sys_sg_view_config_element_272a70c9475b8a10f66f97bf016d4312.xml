@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>image_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-08 00:39:51</sys_created_on>
+        <sys_id>272a70c9475b8a10f66f97bf016d4312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image_01_element</sys_name>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_272a70c9475b8a10f66f97bf016d4312</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-08 00:39:51</sys_updated_on>
+        <view_config display_value="Cherries">9bc93041479b8a10f66f97bf016d4356</view_config>
+        <view_template_slot display_value="image">d208bc4d475b8a10f66f97bf016d4348</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

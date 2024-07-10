@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Go Go Goods">e9a541c147db8a10f66f97bf016d432a</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-08 01:30:38</sys_created_on>
+        <sys_id>2fc5818147db8a10f66f97bf016d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go Go Goods.catalog_go_go_goods</sys_name>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_go_go_goods">afc5818147db8a10f66f97bf016d4335</sys_portal_page>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_2fc5818147db8a10f66f97bf016d4337</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-08 01:30:38</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

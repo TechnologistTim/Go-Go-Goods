@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>true</enable_wish_list>
+        <manager display_value="Tim Dingle">50b3361b47874210f66f97bf016d4312</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-08 01:30:38</sys_created_on>
+        <sys_id>e9a541c147db8a10f66f97bf016d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go Go Goods</sys_name>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sc_catalog_e9a541c147db8a10f66f97bf016d432a</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-08 01:30:38</sys_updated_on>
+        <title>Go Go Goods</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=e9a541c147db8a10f66f97bf016d432a"/>
+</record_update>

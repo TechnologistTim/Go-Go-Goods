@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-07-10 05:18:51">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-08 01:30:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afc5818147db8a10f66f97bf016d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_go_go_goods</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sys_portal_page_afc5818147db8a10f66f97bf016d4335</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-08 01:30:38</sys_updated_on>
+        <title>catalog_go_go_goods</title>
+        <user/>
+        <view>catalog_go_go_goods</view>
+    </sys_portal_page>
+</record_update>

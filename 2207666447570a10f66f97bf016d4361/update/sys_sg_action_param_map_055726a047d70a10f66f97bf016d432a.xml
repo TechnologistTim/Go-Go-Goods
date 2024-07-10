@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (User)">815726a047d70a10f66f97bf016d4302</button>
+        <item_parameter display_value="User avatar">c157e2a047d70a10f66f97bf016d43f4</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-06 19:19:46</sys_created_on>
+        <sys_id>055726a047d70a10f66f97bf016d432a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c157e2a047d70a10f66f97bf016d43f4</sys_name>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_055726a047d70a10f66f97bf016d432a</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-06 19:19:46</sys_updated_on>
+        <ui_parameter display_value="Avatar">015726a047d70a10f66f97bf016d4304</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

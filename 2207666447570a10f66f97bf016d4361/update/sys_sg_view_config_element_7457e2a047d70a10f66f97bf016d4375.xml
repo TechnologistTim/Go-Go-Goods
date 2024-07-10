@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>user_name-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>tim.dingle</sys_created_by>
+        <sys_created_on>2024-07-06 19:19:45</sys_created_on>
+        <sys_id>7457e2a047d70a10f66f97bf016d4375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_name-FieldValue</sys_name>
+        <sys_package display_value="Go Go Goods" source="x_1423006_go_go_go">2207666447570a10f66f97bf016d4361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Go Go Goods">2207666447570a10f66f97bf016d4361</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_7457e2a047d70a10f66f97bf016d4375</sys_update_name>
+        <sys_updated_by>tim.dingle</sys_updated_by>
+        <sys_updated_on>2024-07-06 19:19:45</sys_updated_on>
+        <view_config display_value="User List Screen View Config">3857e2a047d70a10f66f97bf016d4374</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
